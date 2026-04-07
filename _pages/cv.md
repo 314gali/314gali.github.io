@@ -35,7 +35,7 @@ redirect_from:
   - Preparation to 'Agrégation', ranked 86
 
 - M1 Fundamental Mathematics (M1MF), 2016 - 2017, Université Paris-Saclay
-  - Number Theory, Galoi Theory, Commutative Algebra
+  - Number Theory, Galois Theory, Commutative Algebra
 
 - L3 Fundamental Mathematics, 2015 - 2016, Université Paris-Saclay
 

@@ -8,7 +8,7 @@ author_profile: true
 
 # Journal Articles
 
-- Attacking Split-and-Lookup-Based Primitives Using Probabilistic Polynomial System Solving: Applications to Round-Reduced Monolith and Full-Round Skyscraper. Bak, A., Jazeron, G., Galissant, P., & Perrin, L. (2025), 337-367 [https://doi.org/10.46586/tosc.v2025.i3.337-367)](https://doi.org/10.46586/tosc.v2025.i3.337-367) (**FSE 2026 Best Paper Award**)
+- Attacking Split-and-Lookup-Based Primitives Using Probabilistic Polynomial System Solving: Applications to Round-Reduced Monolith and Full-Round Skyscraper. Bak, A., Jazeron, G., Galissant, P., & Perrin, L. (2025), 337-367 [://doi.org/10.46586/tosc.v2025.i3.337-367)](https://doi.org/10.46586/tosc.v2025.i3.337-367) ([**FSE 2026 Best Paper Award**](https://fse.iacr.org/2026/program.php))
 
 - Galissant, P., Goubin, L. (2026).  In: Rivain, M., Sasdrich, P. (eds) Constructive Approaches for Security Analysis and Design of Embedded Systems. CASCADE 2025. Lecture Notes in Computer Science, vol 15952. Springer, Cham. [https://doi.org/10.1007/978-3-032-01405-4_11](https://doi.org/10.1007/978-3-032-01405-4_11)
 
@@ -17,14 +17,13 @@ author_profile: true
 
 # Book Chapter 
 
-- Introduction to White-Box Cryptography. Prouff, E., Renault, G., Rivain, M., O'Flynn, C., GALISSANT, P. and GOUBIN, L. (2025).  In Embedded Cryptography 3 (eds E. Prouff, G. Renault, M. Rivain and C. O'Flynn). [https://doi.org/10.1002/9781394351930.ch1](https://doi.org/10.1002/9781394351930.ch1)
+- Introduction to White-Box Cryptography, Galissant, P. and Goubin, L. (2025).  In Embedded Cryptography 3 (eds E. Prouff, G. Renault, M. Rivain and C. O'Flynn). [https://doi.org/10.1002/9781394351930.ch1](https://doi.org/10.1002/9781394351930.ch1)
 
 
 
 # International Workshop 
 
-- Exploring the Set of APN Functions. Baudrin, J., Galissant, P. et Perrin, L. (2025) Boolean Functions and their Applications, [https://boolean.w.uib.no/bfa-2025-accepted-abstracts](https://boolean.w.uib.no/bfa-2025-accepted-abstracts/)
-
+- Exploring the Set of APN Functions. Baudrin, J., Galissant, P. et Perrin, L. (2025) Boolean Functions and their Applications, [https://boolean.w.uib.no/bfa-2025-accepted-abstracts](https://boolean.w.uib.no/bfa-2025-accepted-abstracts/), [pdf](https://hal.science/hal-05376704v1/)
 
 
 # Software Contribution
