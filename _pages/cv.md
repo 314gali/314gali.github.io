@@ -7,58 +7,58 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include toc %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Professional Experience
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Post-doctoral researcher starting, feb.2025, Inria Paris, Paris in the COSMIQ team.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- PhD in Computer Science, 2019 - 2023, Université Versailles Saint-Quentin
+
+  PhD Thesis of  Université Paris-Saclay, under the supervision of Louis Goubin entitled  <em> Contributions to White-Box Cryptography: Models and Algebraic Constructions </em>. Defended the 21st December 2023 in Versailles. The jury wa composed of:
+
+    - Jean-Sébastien Coron, Université du Luxembourg, President
+    - Pierre-Alain Fouques, Université Rennes 1, Rapporteur
+    - Marine Minier, Université de Lorraine, Rapporteur
+    - Nadia El Mrabet, École des Mines de Saint-Étienne 
+    - Henri Gilbert, Responsable du laboratoire de cryptographie, ANSSI
+    - Matthieu Rivain, Senior cryptography expert
+
+
+- M2 Applied Algebra, Cryptography (M2AA), 2018 - 2019, Université Versailles Saint-Quentin
+  - Cryptography, Algebric Curves, Computer Algebra, C Programmming
+  - Master Thesis: Indistinguishability Obfuscation, Theory and Pratcice sous la direction de Louis Goubin
+
+- M2 "Formation à l'enseignement supérieur" (M2FES), 2017 - 2018, Université Paris-Saclay
+  - Preparation to 'Agrégation', ranked 86
+
+- M1 Fundamental Mathematics (M1MF), 2016 - 2017, Université Paris-Saclay
+  - Number Theory, Galoi Theory, Commutative Algebra
+
+- L3 Fundamental Mathematics, 2015 - 2016, Université Paris-Saclay
+
+- "Classes Préparatoires" MPSI/MP*, 2013 - 2015, Lycée Hoche, Versailles
+
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Refer to [here](/publications/)
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+Refer to [here](/talks/)
   
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Refer to [here](/teaching/)
   
-Service and leadership
+
+
+Miscellaneous
 ======
-* Currently signed in to 43 different slack teams
+
+- Participation to “Privacy-Preserving IA Hackaton” organized by Entrepreneur First, HuggingFace et Zama, sep.2024, Technical Excellence Price
