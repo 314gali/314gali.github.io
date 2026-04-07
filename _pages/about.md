@@ -14,4 +14,4 @@ My research revolves around cryptanalysis and discrete mathematics.
 
 In my PhD, I mainly studied white-box cryptography notably in the context of multivariate cryptography.
 
-In my post-doc, I work on the symmetric cryptanalysis of STAPs and study APN functions.
+In my post-doc, I work on the cryptanalysis of Symmetric Techniques for Advanced Protocols (STAP) and study APN functions.
