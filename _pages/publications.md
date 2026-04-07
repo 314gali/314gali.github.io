@@ -30,7 +30,7 @@ author_profile: true
 # Software Contribution
 
 
-- Contribution to SboxU, [https://github.com/lpp-crypto/sboxU/](https://github.com/lpp-crypto/sboxU/), SboxU is a library dedicated to the study of boolean functions. It contains about 8000 lines of C++ et 3000 lines of Python.
+- Contribution to SboxU, [https://github.com/lpp-crypto/sboxU/](https://github.com/lpp-crypto/sboxU/), SboxU is a library dedicated to the study of boolean functions. It contains more than 10000 lines of C++, Cython and Python.
 
 - Implementation of benchmarks for the attacks against Monolith, 2025, [https://github.com/314gali/SnL_PoSSo](https://github.com/314gali/SnL_PoSSo), SAGE/Python for the evaluation of the complexity of the attacks.
 

@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 
-I'm a post-doc in the Team COMSIQ at Inria Paris.
+I'm a post-doc in the Team COSMIQ at Inria Paris.
 
-My research revolves around cryptanalysis and discrete mathematics. In my PhD, I mainly studied white-box cryptography notably in the context of multivariate cryptography. In my post-doc, work on the symmetric cryptanalysis of STAPs and APN functions.
+My research revolves around cryptanalysis and discrete mathematics.
+
+In my PhD, I mainly studied white-box cryptography notably in the context of multivariate cryptography.
+
+In my post-doc, I work on the symmetric cryptanalysis of STAPs and study APN functions.

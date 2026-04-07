@@ -17,19 +17,19 @@ redirect_from:
 
 - PhD in Computer Science, 2019 - 2023, Université Versailles Saint-Quentin
 
-  PhD Thesis of  Université Paris-Saclay, under the supervision of Louis Goubin entitled  <em> Contributions to White-Box Cryptography: Models and Algebraic Constructions </em>. Defended the 21st December 2023 in Versailles. The jury wa composed of:
+  PhD Thesis of Université Paris-Saclay, under the supervision of Louis Goubin entitled <em> Contributions to White-Box Cryptography: Models and Algebraic Constructions.</em> Defended the 21st December 2023 in Versailles. The jury was composed of:
 
     - Jean-Sébastien Coron, Université du Luxembourg, President
     - Pierre-Alain Fouques, Université Rennes 1, Rapporteur
     - Marine Minier, Université de Lorraine, Rapporteur
     - Nadia El Mrabet, École des Mines de Saint-Étienne 
-    - Henri Gilbert, Responsable du laboratoire de cryptographie, ANSSI
+    - Henri Gilbert, ANSSI
     - Matthieu Rivain, Senior cryptography expert
 
 
 - M2 Applied Algebra, Cryptography (M2AA), 2018 - 2019, Université Versailles Saint-Quentin
-  - Cryptography, Algebric Curves, Computer Algebra, C Programmming
-  - Master Thesis: Indistinguishability Obfuscation, Theory and Pratcice sous la direction de Louis Goubin
+  - Cryptography, Algebric Curves, Computer Algebra, C Programming
+  - Master Thesis: Indistinguishability Obfuscation, Theory and Practice sous la direction de Louis Goubin
 
 - M2 "Formation à l'enseignement supérieur" (M2FES), 2017 - 2018, Université Paris-Saclay
   - Preparation to 'Agrégation', ranked 86
