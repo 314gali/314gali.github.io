@@ -8,7 +8,7 @@ author_profile: true
 
 # Journal Articles
 
-- Attacking Split-and-Lookup-Based Primitives Using Probabilistic Polynomial System Solving: Applications to Round-Reduced Monolith and Full-Round Skyscraper. Bak, A., Jazeron, G., Galissant, P., & Perrin, L. (2025), 337-367 [://doi.org/10.46586/tosc.v2025.i3.337-367)](https://doi.org/10.46586/tosc.v2025.i3.337-367) ([**FSE 2026 Best Paper Award**](https://fse.iacr.org/2026/program.php))
+- Attacking Split-and-Lookup-Based Primitives Using Probabilistic Polynomial System Solving: Applications to Round-Reduced Monolith and Full-Round Skyscraper. Bak, A., Jazeron, G., Galissant, P., & Perrin, L. (2025), 337-367 [https://doi.org/10.46586/tosc.v2025.i3.337-367](https://doi.org/10.46586/tosc.v2025.i3.337-367) ([**FSE 2026 Best Paper Award**](https://fse.iacr.org/2026/program.php))
 
 - Galissant, P., Goubin, L. (2026).  In: Rivain, M., Sasdrich, P. (eds) Constructive Approaches for Security Analysis and Design of Embedded Systems. CASCADE 2025. Lecture Notes in Computer Science, vol 15952. Springer, Cham. [https://doi.org/10.1007/978-3-032-01405-4_11](https://doi.org/10.1007/978-3-032-01405-4_11)
 
