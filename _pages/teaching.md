@@ -14,7 +14,7 @@ author_profile: true
 # Secure Computation, M1, 2021 - 2023, Université Versailles Saint-Quentin
 
 - For Louis Goubin - 48h - 8 courses of 3h for 2 years.
-- Topics: Simple Power Analysis, Fault attacks, Buffer Overflow attacks, Multiparty Computation and Homomorhpic encryption.
+- Topics: Simple Power Analysis, Fault attacks, Buffer Overflow attacks, Multiparty Computation and Homomorphic encryption.
 
 # Introduction to Cryptography, L3, 2020 - 2021, Université Versailles Saint-Quentin
 
